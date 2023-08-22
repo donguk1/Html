@@ -1,0 +1,35 @@
+
+        strong{
+            color: red;}
+        .ex{
+            color: blue;
+            background-color: chartreuse;
+        }
+        #main{
+            color: darkkhaki;
+        }
+        a:link{
+            color: brown;
+        }
+        a:visited{
+            color: brown;
+        }
+        a:hover{
+            color: red;
+            background-color: yellowgreen;
+        }
+p{
+    font-family: "궁서체","굴림체";
+    font-size: 20pt;
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 40pt;
+}
+h3 {
+    text-align: center;
+    text-shadow: 3pt 3pt 10pt yellow;
+/*               x축 y축  번짐*/
+}
+
+
+
