@@ -1,0 +1,67 @@
+header {
+    font-style: oblique;
+    font-size: 30px;
+    background-color: beige;
+    margin: 0px;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+nav {
+    border: 4px solid green;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: ivory;
+}
+nav li {
+    list-style: square;
+}
+nav a {
+    text-decoration: none;
+}
+section {
+    text-align: center;
+    width: auto;
+    height: auto;
+    overflow: visible;
+}
+section table {
+    text-align: center;
+    width: 97%;
+    margin-left: 1.5%;
+    height: 800px;
+}
+article {
+    border: solid 5px black;
+    padding: 10px;
+    width: 50%;
+    height: 1000px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    background-color: goldenrod;
+}
+article iframe {
+    background-image: url(image/%EB%B0%B0%EA%B2%BD%EC%82%AC%EC%A7%841.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+    border: solid 1px;
+}
+footer {
+    font-style: italic;
+    text-align: center;
+}
+div {
+    background-image: url(image/%EB%B0%B0%EA%B2%BD%EC%82%AC%EC%A7%84.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a img {
+    width: 200px;
+    height: auto;
+}
